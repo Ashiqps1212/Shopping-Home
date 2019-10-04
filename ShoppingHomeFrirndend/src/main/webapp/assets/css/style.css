@@ -1,0 +1,21 @@
+html{
+	height:100%;
+}
+body{
+	height: 100%;
+}
+.full{
+	position: relative;
+	min-height: 100%;
+	
+}
+.middle{
+	padding-bottom: 10%;
+}
+.footer-lab{
+	bottom: 0;
+	position: absolute;
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
